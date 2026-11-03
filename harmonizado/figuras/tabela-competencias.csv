@@ -1,0 +1,34 @@
+fonte,skill,quantidade,denominador_descricao,percentual
+gupy,SQL,277,462,60.0
+gupy,Python,264,462,57.1
+gupy,Power BI,207,462,44.8
+gupy,Excel,130,462,28.1
+gupy,Cloud,179,462,38.7
+gupy,ETL/ELT,98,462,21.2
+gupy,dbt,20,462,4.3
+gupy,Airflow,46,462,10.0
+gupy,Spark,73,462,15.8
+gupy,Databricks,83,462,18.0
+gupy,IA generativa/LLM,99,462,21.4
+linkedin,SQL,161,236,68.2
+linkedin,Python,135,236,57.2
+linkedin,Power BI,111,236,47.0
+linkedin,Excel,36,236,15.3
+linkedin,Cloud,66,236,28.0
+linkedin,ETL/ELT,32,236,13.6
+linkedin,dbt,5,236,2.1
+linkedin,Airflow,7,236,3.0
+linkedin,Spark,21,236,8.9
+linkedin,Databricks,21,236,8.9
+linkedin,IA generativa/LLM,33,236,14.0
+remoteok,SQL,18,48,37.5
+remoteok,Python,14,48,29.2
+remoteok,Power BI,14,48,29.2
+remoteok,Excel,7,48,14.6
+remoteok,Cloud,13,48,27.1
+remoteok,ETL/ELT,4,48,8.3
+remoteok,dbt,4,48,8.3
+remoteok,Airflow,0,48,0.0
+remoteok,Spark,0,48,0.0
+remoteok,Databricks,1,48,2.1
+remoteok,IA generativa/LLM,3,48,6.2

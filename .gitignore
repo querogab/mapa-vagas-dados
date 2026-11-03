@@ -1,0 +1,10 @@
+__pycache__/
+
+# Dados de origem e derivados linha a linha: não são públicos (ver README).
+brutos/
+coletores/
+*-bruto-*.json
+mercor-*.json
+vagas-classificadas-*.csv
+harmonizado/vagas-harmonizadas-*.csv
+harmonizado/amostra-validacao-*.md
