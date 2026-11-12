@@ -4,6 +4,8 @@ O que as vagas de dados pedem? Para responder, analisei anúncios da Gupy, do Li
 
 A base tem 2.822 anúncios. Depois da classificação pelo título, 1.719 contam como vagas de dados.
 
+O relato completo, da coleta à decisão sobre o que dava para comparar, está no meu portfólio: [Mapa de vagas de dados](https://queroquero.ia.br/mapa-vagas).
+
 ## O que encontrei
 
 SQL, Python e Power BI são as competências mais citadas nas três fontes. O peso de cada uma muda com a família de cargo, o grupo em que cada vaga foi classificada. Na Gupy, que tem descrição em todas as vagas:
